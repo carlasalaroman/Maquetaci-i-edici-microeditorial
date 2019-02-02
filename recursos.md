@@ -1,6 +1,6 @@
 # Recursos.
 ### Ferramentes.
-* [Plugins indesign](https://helpx.adobe.com/es/indesign/plug-ins.html)
+* [Plugins indesign](https://helpx.adobe.com/es/indesign/plug-ins.html).
 ### Tipografia
 * [Unicode list characters (https://en.wikipedia.org/wiki/List_of_Unicode_characters)] 
 ### Llibres.
