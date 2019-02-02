@@ -1,5 +1,5 @@
 # Maquetacio-edicio-microeditorial
-<h2>Maquetació i edició microeditorial - 19FP85CF031</h2>
+##Maquetació i edició microeditorial - 19FP85CF031
 
 <h3>Objectius.</h3>
 <ul>
