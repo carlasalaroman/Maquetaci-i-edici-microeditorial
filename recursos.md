@@ -8,7 +8,8 @@
 
 ### Festival Fanzine.
 * [Savethefanzine] (http://savethefanzine.com)
-* [Solidarity!] (Revolutionary Center and Radical Library) 
+* [Solidarity! Revolutionary Center and Radical Library] (https://archive.org/details/solidarityrevolutionarycenter&tab=collection
+) 
 * [Archive.org] (https://archive.org/details/solidarityrevolutionarycenter&tab=collection)
 * [Efanzines] (http://efanzines.com/)
 * [Fanzineología] (http://www.fanzineologia.net/)
