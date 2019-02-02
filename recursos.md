@@ -1,6 +1,6 @@
 # Recursos.
 ### Ferramentes.
-####Plugins
+--Plugins
 * [Plugins indesign](https://helpx.adobe.com/es/indesign/plug-ins.html)
 * [The book calculator](http://www.bepxlagency.be/thebookcalculator/)
 * [Index from list word](http://www.kahrel.plus.com/indesign/index_independent.html)
