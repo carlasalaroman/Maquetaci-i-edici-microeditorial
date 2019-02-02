@@ -6,7 +6,7 @@
 # La microeditorial.
 * Article Visual.
 
-### Festival Fanzine.
+### Món Fanzine.
 * [Savethefanzine] (http://savethefanzine.com)
 * [Solidarity! Revolutionary Center and Radical Library] (https://archive.org/details/solidarityrevolutionarycenter&tab=collection
 ) 
