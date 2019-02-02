@@ -2,11 +2,11 @@
 ### Tipografia
 ### Llibres.
 ### Web.
-* 
-* [Unos tipos duros](https://www.unostiposduros.com/)
+* [Rayitas azules] (https://www.rayitasazules.com/)
+* [Unos tipos duros] (https://www.unostiposduros.com/)
 # La microeditorial.
 * Article Visual.
-* [Minca fanzine], (http://fanzinoteca.net/docs/Minca01_CAST_sreen.pdf)
+* [Minca fanzine] (http://fanzinoteca.net/docs/Minca01_CAST_sreen.pdf)
 ### Món Fanzine.
 * [Savethefanzine] (http://savethefanzine.com)
 * [Solidarity! Revolutionary Center and Radical Library] (https://archive.org/details/solidarityrevolutionarycenter&tab=collection
