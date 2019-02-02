@@ -11,7 +11,8 @@
 ### Llibres.
 * Ortotipografía para diseñadores, Raquel Marín Álvarez, Ed GG, 2015
 * La geometría del diseño. Estudios sobre la proporción y la composición, Kimberly Elam, Ed GG, 2011
-* Diseño para la edición. Para diseñadores, directores de arte y editores, White, Jan V. , Ed Jardín de monos, 2017.
+* Diseño para la edición. Para diseñadores, directores de arte y editores, White, Jan V. , Ed Jardín de monos, 2017
+* Tipometría. Las medidas en diseño gráfico, Catopodis, Miguel, Ed Campgràfic, 2014
 ### Web.
 * [Rayitas azules](https://www.rayitasazules.com/)
 * [Unos tipos duros](https://www.unostiposduros.com/)
