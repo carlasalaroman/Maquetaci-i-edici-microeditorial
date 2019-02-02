@@ -1,11 +1,14 @@
 # Recursos.
-## Tipografia
-## Llibres.
-## Web.
+### Tipografia
+### Llibres.
+### Web.
 
 # La microeditorial.
-## Article Visual. 
-## Fanzinoteca.
-## 
-# El llibre.
-# El futur de l'edició.
+* Article Visual.
+
+### Festival Fanzine.
+* 
+*
+
+# El futur.
+* [El llibre que ve](http://lab.cccb.org/ca/el-llibre-que-ve/)
