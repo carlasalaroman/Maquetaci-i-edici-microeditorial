@@ -5,6 +5,7 @@
 * [The book calculator](http://www.bepxlagency.be/thebookcalculator/)
 * [Index from list word](http://www.kahrel.plus.com/indesign/index_independent.html)
 * [Show hyphenations script](http://in-tools.com/article/show-hyphenations-script/)
+* [Filetes enmig de columnes](http://www.indiscripts.com/post/2012/09/getting-started-with-ingutter2)
 ### Tipografia
 * [Unicode list characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
 ### Llibres.
