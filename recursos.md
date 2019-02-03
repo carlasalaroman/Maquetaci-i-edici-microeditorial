@@ -12,7 +12,7 @@
 
 ··· Corrector
 
-* Diccionaris(https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
+* [Diccionaris](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
 ### Tipografia
 * [Unicode list characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
 ### Llibres.
