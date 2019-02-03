@@ -31,7 +31,7 @@
 * [Rayitas azules](https://www.rayitasazules.com/)
 * [Unos tipos duros](https://www.unostiposduros.com/)
 # La microeditorial.
-* Ramos, Clara-Iris,"La microedición y sus microtecnologías, 1a parte". Revista Visual, Enero 2019.
+* Ramos, Clara-Iris,"La microedición y sus microtecnologías, 1a parte". Revista Visual, Diciembre 2018.
 
 * [Minca fanzine](http://fanzinoteca.net/docs/Minca01_CAST_sreen.pdf)
 ### Microeditorial archeology.
