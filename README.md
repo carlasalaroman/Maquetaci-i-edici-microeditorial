@@ -15,7 +15,7 @@
 
 ### Contingus
 
-  * Formats, reticles i pàgines mestres
+  * Formats, retícules i pàgines mestres
   * Jerarquia gràfica, tipogràfica en estils de paràgraf i caràcter
   * Importació d'arxius de text i imatge
   * Estils d'objecte i taules
