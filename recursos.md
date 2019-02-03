@@ -1,4 +1,5 @@
 # Recursos.
+- [Mac. Imprimir folleto.](https://www.cice.es/noticia/tutorial-dilema-pdf-impresion-mac/)
 ### Ferramentes.
 --Plugins | Scripts
 * [Plugins indesign](https://helpx.adobe.com/es/indesign/plug-ins.html)
