@@ -2,14 +2,16 @@
 - [Mac. Imprimir folleto.](https://www.cice.es/noticia/tutorial-dilema-pdf-impresion-mac/)
 ### Ferramentes.
 
-··· Plugins | Scripts
+··· Scripts
 
 * [Plugins indesign](https://helpx.adobe.com/es/indesign/plug-ins.html)
 * [The book calculator](http://www.bepxlagency.be/thebookcalculator/)
 * [Index from list word](http://www.kahrel.plus.com/indesign/index_independent.html)
 * [Show hyphenations script](http://in-tools.com/article/show-hyphenations-script/)
 * [Filetes enmig de columnes](http://www.indiscripts.com/post/2012/09/getting-started-with-ingutter2)
+... Plugins
 
+* [Automatic Figure and Table Numbering, Running Heads for Adobe InDesign](http://www.virginiasystems.com/products_d.html#sbiseq)
 ··· Corrector
 
 * [Diccionaris](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
