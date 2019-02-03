@@ -1,6 +1,9 @@
 # Maquetacio-edicio-microeditorial
 ## Maquetació i edició microeditorial - 19FP85CF031
 
+[Recursos](recursos.md)
+[Pràctiques](practiques_taller.md)
+
 ### Objectius
 
   * Conèixer, crear i aplicar les normes compositives, de maquetació i disseny editorial
