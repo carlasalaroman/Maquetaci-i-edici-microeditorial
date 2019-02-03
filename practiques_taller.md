@@ -2,6 +2,8 @@
 
 ## p0
 
+[Arxiu p0](Maquetaci-i-edici-microeditorial/p0.zip)
+
 ### Continguts.
 * Marges i guies.
 * Impressió en imposició i en pàgines.
