@@ -1,5 +1,7 @@
 # Recursos.
 - [Mac. Imprimir folleto.](https://www.cice.es/noticia/tutorial-dilema-pdf-impresion-mac/)
+- [Tamanys internacionals](https://papersizes.io/)
+
 ### Ferramentes.
 
 ··· Scripts
