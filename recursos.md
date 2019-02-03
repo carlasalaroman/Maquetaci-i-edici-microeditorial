@@ -34,7 +34,7 @@
 * Ramos, Clara-Iris,"La microedición y sus microtecnologías, 1a parte". Revista Visual, Enero 2019.
 
 * [Minca fanzine](http://fanzinoteca.net/docs/Minca01_CAST_sreen.pdf)
-### Món Fanzine.
+### Microeditorial archeology.
 * [Savethefanzine](http://savethefanzine.com)
 * [Solidarity! Revolutionary Center and Radical Library](https://archive.org/details/solidarityrevolutionarycenter&tab=collection
 ) 
@@ -43,12 +43,13 @@
 * [Fanzineología](http://www.fanzineologia.net/)
 * [CSC Zineography](http://csczine.tumblr.com/)
 
-### Festivals fanzine.
+### Festivals.
 * [Gutterfest](http://gutterfest.tumblr.com/)
 * [Tenderete](http://tenderetefestival.com/)
 * [Pichifest](https://pichifest.tumblr.com/)
 * [GrafComic](https://grafcomic.com/)
 * [LibrosMutantes](http://librosmutantes.com/)
 * [Fira del Llibro Independent i Autoeditat](http://fliabcn.tumblr.com/)
+
 # El futur.
 * [El llibre que ve](http://lab.cccb.org/ca/el-llibre-que-ve/)
