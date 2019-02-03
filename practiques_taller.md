@@ -14,3 +14,4 @@
 * Conèixer el sistema i metodologia de treball de la maquetació.
 * Definir les parts d'un projecte microeditorial.
 * Instal·lar eines que ens ajuden a optimitzar el projecte.
+* Donar forma a la pàgina.
