@@ -2,6 +2,7 @@
 ## Maquetació i edició microeditorial - 19FP85CF031
 
 [Recursos](recursos.md)
+
 [Pràctiques](practiques_taller.md)
 
 ### Objectius
