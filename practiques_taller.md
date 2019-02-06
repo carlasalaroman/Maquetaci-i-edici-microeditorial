@@ -1,4 +1,4 @@
-# Pràctiques taller de taller de maquetació i edició microeditorial.
+# Pràctiques
 
 ## p0
 
