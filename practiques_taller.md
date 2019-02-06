@@ -15,3 +15,22 @@
 * Definir les parts d'un projecte microeditorial.
 * Instal·lar eines que ens ajuden a optimitzar el projecte.
 * Donar forma a la pàgina.
+
+
+## p1
+
+[textos]
+[imatges]
+[taules]
+
+### Continguts.
+* Estructura de la pàgina.
+* Elecció del tipus de marge i definició de les guies, retícula.
+* Importació de textos.
+* Colocació d'imatge.
+* Estils de paràgraf i caràcter.
+### Objectius.
+* Definir les parts de la microeditorial.
+* Col·locar els textos i imatge.
+* Treballar en els estils de paràgraf, caràcter i taula.
+
