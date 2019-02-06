@@ -19,16 +19,6 @@
 
 ## p1
 
-[textos: cos + taules](textos.zip)
-
-[imatges](img.zip)
-
-[fonts. Aileron. Young Serif Regular](fonts.zip)
-
-### Característiques tècniques.
-* Tamany document. 142 x 205 mm
-* Sagnia. 3mm
-
 ### Continguts.
 * Estructura de la pàgina.
 * Elecció del tipus de marge i definició de les guies, retícula.
@@ -39,4 +29,12 @@
 * Definir les parts de la microeditorial.
 * Col·locar els textos i imatge.
 * Treballar en els estils de paràgraf, caràcter i taula.
+### Característiques tècniques.
+* Tamany document. 142 x 205 mm
+* Sagnia. 3mm
 
+[textos: cos + taules](textos.zip)
+
+[imatges](img.zip)
+
+[fonts. Aileron. Young Serif Regular](fonts.zip)
