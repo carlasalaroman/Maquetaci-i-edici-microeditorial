@@ -35,6 +35,6 @@
 * Definir les parts de la microeditorial.
 * Col·locar els textos i imatge.
 * Treballar en els estils de paràgraf, caràcter i taula.
-### Característiques tècniques.
+#### Característiques tècniques.
 * Tamany document. 142 x 205 mm
 * Sagnia. 3mm
