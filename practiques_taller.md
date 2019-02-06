@@ -19,9 +19,9 @@
 
 ## p1
 
-[textos: cos + taules]
-[imatges]
-[fonts. Aileron. Young Serif Regular]
+[textos: cos + taules](textos.zip)
+[imatges](img.zip)
+[fonts. Aileron. Young Serif Regular](fonts.zip)
 
 ### Continguts.
 * Estructura de la pàgina.
