@@ -25,6 +25,10 @@
 
 [fonts. Aileron. Young Serif Regular](fonts.zip)
 
+### Característiques tècniques.
+* Tamany document. 142 x 205mm
+* Sagnia. 3mm
+
 ### Continguts.
 * Estructura de la pàgina.
 * Elecció del tipus de marge i definició de les guies, retícula.
