@@ -19,9 +19,9 @@
 
 ## p1
 
-[textos]
+[textos: cos + taules]
 [imatges]
-[taules]
+[fonts. Aileron. Young Serif Regular]
 
 ### Continguts.
 * Estructura de la pàgina.
