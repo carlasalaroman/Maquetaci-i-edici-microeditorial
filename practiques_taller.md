@@ -20,7 +20,9 @@
 ## p1
 
 [textos: cos + taules](textos.zip)
+
 [imatges](img.zip)
+
 [fonts. Aileron. Young Serif Regular](fonts.zip)
 
 ### Continguts.
