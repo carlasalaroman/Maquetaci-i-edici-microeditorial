@@ -26,7 +26,7 @@
 [fonts. Aileron. Young Serif Regular](fonts.zip)
 
 ### Característiques tècniques.
-* Tamany document. 142 x 205mm
+* Tamany document. 142 x 205 mm
 * Sagnia. 3mm
 
 ### Continguts.
