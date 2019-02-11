@@ -38,5 +38,27 @@
 * Estils de paràgraf i caràcter.
 ### Objectius.
 * Definir les parts de la microeditorial.
-* Col·locar els textos i imatge.
+* Col·locar els textos.
 * Treballar en els estils de paràgraf, caràcter i taula.
+
+## p2
+
+### Materials.
+
+[p1_pagines_mestres_estils_paràgrafs](p1_vtext.zip)
+
+#### Dades tècniques.
+* Tamany document. 142 x 205 mm
+* Sagnia. 3mm
+### Continguts.
+* Estructura de la pàgina.
+* Elecció del tipus de marge i definició de les guies, retícula.
+* Importació de textos.
+* Colocació d'imatge.
+* Estils de paràgraf i caràcter.
+* Numeració.
+### Objectius.
+* Definir les parts de la microeditorial.
+* Col·locar les imatges.
+* Treballar en els estils de paràgraf, caràcter, objecte i taula.
+
