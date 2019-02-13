@@ -1,6 +1,7 @@
 # Recursos.
 - [Mac. Imprimir folleto.](https://www.cice.es/noticia/tutorial-dilema-pdf-impresion-mac/)
 - [Tamanys internacionals](https://papersizes.io/)
+- [Latin Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
 
 ### Ferramentes.
 
