@@ -62,3 +62,22 @@
 * Col·locar les imatges.
 * Treballar en els estils de paràgraf, caràcter, objecte i taula.
 
+## p3
+
+### Materials
+[p2_img_taula_index](p2_img_taula_index.zip)
+
+#### Dades tècniques.
+* Tamany document. 142 x 205 mm
+* Sagnia. 3mm
+### Continguts.
+* Col·locar imatges. Peus d'imatge.
+* Taules de contingut. L'Índex.
+* Estils de taula i cel·la.
+* Creació de taules i importació.
+* La tabulació i alineació d'elements.
+### Objectius.
+* Crear i gestionar estils de taula i cel·la.
+* Col·locar les imatges.
+* Crear un índex i la numeració.
+* Organitzar el contingut en base al seu estil i relacionar-lo amb la seua paginació.
