@@ -93,6 +93,7 @@
 * Peus de pàgina.
 * Taules de contingut. Índex.
 * Control el tall de paraules.
+* Treball amb indesign-incopy. Separació de processos Edició / Disseny.
 ### Objectius
 * Crear taules de contingut.
 * Crear índexs amb numeració de pàgines.
