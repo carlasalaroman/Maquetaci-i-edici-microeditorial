@@ -1,6 +1,6 @@
 # Pràctiques
 
-## p0
+## p1
 
 [Arxiu p0](p0.zip)
 
@@ -17,7 +17,7 @@
 * Donar forma a la pàgina.
 
 
-## p1
+## p2
 
 ### Materials.
 
@@ -41,7 +41,7 @@
 * Col·locar els textos.
 * Treballar en els estils de paràgraf, caràcter i taula.
 
-## p2
+## p3
 
 ### Materials.
 
@@ -62,7 +62,7 @@
 * Col·locar les imatges.
 * Treballar en els estils de paràgraf, caràcter, objecte i taula.
 
-## p3
+## p4
 
 ### Materials
 [p2_img_taula_index](p2_img_taula_index.zip)
@@ -82,7 +82,7 @@
 * Crear un índex i la numeració.
 * Organitzar el contingut en base al seu estil i relacionar-lo amb la seua paginació.
 
-## p4
+## p5
 
 ### Materials
 [p3_final](p3_final)
