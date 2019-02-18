@@ -85,7 +85,7 @@
 ## p4
 
 ### Materials
-[p3_img_textos_final]()
+[p3_final](p3_final)
 #### Dades tècniques
 * Tamany document. 142 x 205 mm
 * Sagnia. 3mm
