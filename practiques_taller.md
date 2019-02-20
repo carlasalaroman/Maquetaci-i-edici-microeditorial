@@ -104,11 +104,11 @@
 ### Materials
 
 
-[material RAW. Pràctica: imatges + fonts + detalls document](). Realitzarem una maquetació de quatre pàgines amb grups de dos.
+[Material RAW. Pràctica: imatges + fonts + detalls document](). Realitzarem una maquetació de quatre pàgines amb grups de dos.
 
 #### Indesign -> Incopy
 
-[Indesign-Incopy](indesign_incopy.zip)
+[Material RAW. Indesign-Incopy](indesign_incopy.zip)
 
 #### Interactius.
 
