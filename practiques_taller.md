@@ -103,7 +103,7 @@
 
 #### Materials
 
-[pràctica: imatges + fonts + detalls document]()Realitzar una maquetació de quatre pàgines amb les dades que comentarem a continuació.
+[pràctica: imatges + fonts + detalls document](). Realitzarem una maquetació de quatre pàgines amb grups de dos.
 
 [microeditorial_ediciodigital]()
 
