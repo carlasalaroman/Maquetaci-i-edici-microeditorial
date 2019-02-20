@@ -93,10 +93,25 @@
 * Peus de pàgina.
 * Taules de contingut. Índex.
 * Control el tall de paraules.
-* Treball amb indesign-incopy. Separació de processos Edició / Disseny.
 ### Objectius
 * Crear taules de contingut.
 * Crear índexs amb numeració de pàgines.
 * Analitzar el disseny imprès en relació als valors del document digital.
 * Valorar i proposar millores respecte al disseny imprés
+
+## p6
+
+#### Materials
+[pràctica: imatges + fonts + detalls document]()Realitzar una maquetació de quatre pàgines amb les dades que comentarem a continuació.
+[microeditorial_ediciodigital]()
+### Continguts
+* Edició amb indesign-incopy. Separació de processos Edició / Disseny. Pros i contres.
+* Edició d'un document destinat a la edició interactiva. El epub adaptable, epub restrictiu i pdf interactiu.
+* Creació d'una edició en grups de dos.
+### Objectius
+* Conèixer les possibilitats a partir de l'edició i maquetació destinada a la publicació online i llibres electrònics amb les eines que hem treballat.
+* Analitzar i crear un document de zero aplicant els estils bàsics i la numeració. Treball amb els elements bàsics.
+* Comprendre i visualitzar el treball amb processos i tecnologia compartida. Incopy-Indesign.
+
+--> Dubtes i idees futures.
 
