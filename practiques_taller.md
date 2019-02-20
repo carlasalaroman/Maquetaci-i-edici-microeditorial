@@ -103,9 +103,11 @@
 
 #### Materials
 
-[pràctica: imatges + fonts + detalls document](). Realitzarem una maquetació de quatre pàgines amb grups de dos.
+[material RAW. Pràctica: imatges + fonts + detalls document](). Realitzarem una maquetació de quatre pàgines amb grups de dos.
 
-[microeditorial_ediciodigital]()
+[Material RAW. Publicació online Maquetació i edició microeditorial]()
+
+[Publicació online Maquetació i edició microeditorial](https://indd.adobe.com/view/acb28818-dd1f-4adc-9816-cd4a7e25b180)
 
 ### Continguts
 * Edició amb indesign-incopy. Separació de processos Edició / Disseny. Pros i contres.
