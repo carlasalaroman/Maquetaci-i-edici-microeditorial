@@ -104,7 +104,7 @@
 ### Materials
 
 
-[Material RAW. Pràctica: imatges + fonts + detalls document](). Realitzarem una maquetació de quatre pàgines amb grups de dos.
+[Material RAW. Pràctica: txt + fonts + detalls document](exercici_maquedicio.zip). Realitzarem una maquetació de quatre pàgines amb grups de dos.
 
 #### Indesign -> Incopy
 
