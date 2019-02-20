@@ -102,8 +102,11 @@
 ## p6
 
 #### Materials
+
 [pràctica: imatges + fonts + detalls document]()Realitzar una maquetació de quatre pàgines amb les dades que comentarem a continuació.
+
 [microeditorial_ediciodigital]()
+
 ### Continguts
 * Edició amb indesign-incopy. Separació de processos Edició / Disseny. Pros i contres.
 * Edició d'un document destinat a la edició interactiva. El epub adaptable, epub restrictiu i pdf interactiu.
